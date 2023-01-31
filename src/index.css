@@ -1,0 +1,25 @@
+
+
+/* reset */
+*{
+  box-sizing: border-box; 
+
+}
+body{
+    margin:0;
+
+}
+
+h1,h2,h3,p,ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul{
+    padding-left: 0;
+    list-style: 0;
+}
+img{
+    display: block;
+    width: 100%;
+    
+}
